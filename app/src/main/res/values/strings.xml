@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Owl Library2</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="desc">logo imagem</string>
+    <string name="email">Email</string>
+    <string name="senha">senha</string>
+    <string name="title_cadastrese">Cadastre-se</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="password">Senha</string>
+    <string name="emailuser">Email</string>
+</resources>
